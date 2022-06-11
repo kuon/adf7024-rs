@@ -7,6 +7,7 @@ edition = "2021"
 license = "Apache-2.0"
 categories = ["embedded", "hardware-support", "no-std"]
 keywords = ["embedded-hal-driver", "ism", "adf7024", "radio"]
+description = "Rust Driver for the ADF7024 ISM radio tranceiver"
 
 
 [dependencies]
