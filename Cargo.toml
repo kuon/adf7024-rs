@@ -1,0 +1,13 @@
+[package]
+name = "adf7024"
+version = "0.1.0"
+authors = ["Nicolas Goy <me@kuon.ch>"]
+repository = "https://github.com/kuon/adf7024-rs"
+edition = "2021"
+license = "Apache-2.0"
+categories = ["embedded", "hardware-support", "no-std"]
+keywords = ["embedded-hal-driver", "ism", "adf7024", "radio"]
+
+
+[dependencies]
+embedded-hal = "~0.2"
